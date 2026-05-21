@@ -11,8 +11,8 @@ My favorite tools are
 My favorite project is _____
 
 **💬 Fun Facts:**
-• I have had a research project on cerebral malaria;
-• I have a Fashion Design degree from the Fashion Institute of Technology in NY;
+• I have had a research project on cerebral malaria
+• I have a Fashion Design degree from the Fashion Institute of Technology in NY
 • I am also a tattoo artist!
 
 📩: gtoledodata@gmail.com
