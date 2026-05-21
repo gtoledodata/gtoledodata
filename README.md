@@ -6,14 +6,14 @@
 I study nonstop to learn how to execute my ideas.✨**
 
 💻 My main tech stack is SQL and Python.
-My favorite tools are
+- My favorite tools are
 
 My favorite project is _____
 
 **💬 Fun Facts:**
-• I have had a research project on cerebral malaria
-• I have a Fashion Design degree from the Fashion Institute of Technology in NY
-• I am also a tattoo artist!
+- I have had a research project on cerebral malaria
+- I have a Fashion Design degree from the Fashion Institute of Technology in NY
+- I am also a tattoo artist!
 
 📩: gtoledodata@gmail.com
 
