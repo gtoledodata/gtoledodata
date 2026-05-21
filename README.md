@@ -6,7 +6,7 @@
 I study nonstop to learn how to execute my ideas.✨**
 
 💻 My main tech stack is SQL and Python.
-- My favorite tools are
+My favorite tools are
 
 My favorite project is _____
 
