@@ -5,10 +5,8 @@
 **✨My biggest passion is understanding how things work.
 I study nonstop to learn how to execute my ideas.✨**
 
-💻 My main tech stack is SQL and Python.
-⚙️ My favorite tools are
-
-My favorite project is _____
+💻 My main tech stack right now is Python.
+⚙️ My favorite tools are Visual Studio Code and Github
 
 **💬 Fun Facts:**
 - I have had a research project on cerebral malaria
